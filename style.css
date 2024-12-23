@@ -286,7 +286,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #f7e8e1;
-    background: url("/images/layer_10.png");
+    background: url("images/layer_10.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -515,7 +515,7 @@ body{
   justify-content: center;
   align-items: center;
   background-color: #f7e8e1;
-  background: url("/images/lime.png");
+  background: url("images/lime.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -685,7 +685,7 @@ body{
   justify-content: space-between;
   flex-wrap: nowrap;
   padding: 276px 0px;
-  background: url(/images/image_4.png);
+  background: url(images/image_4.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -898,7 +898,7 @@ body{
   justify-content: center;
   align-items: center;
   background-color: #f7e8e1;
-  background: url("/images/layer_19.png");
+  background: url("images/layer_19.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -1257,7 +1257,7 @@ body{
 .promo-stars .star {
   width: 65px;
   height: 50px;
-  background: url('/images/Star2.png') no-repeat center center;
+  background: url('images/Star2.png') no-repeat center center;
   background-size: contain;
   position: absolute;
 }
